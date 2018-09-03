@@ -10,7 +10,7 @@ There is an opportunity to view History for modified Action Points.
 
 The **whole history** can be opened via "History" button above the status panel:
 
-![History button](../../.gitbook/assets/21.png)
+![History button](../../.gitbook/assets/21%20%281%29.png)
 
   
 And can be viewed in the following modal window:

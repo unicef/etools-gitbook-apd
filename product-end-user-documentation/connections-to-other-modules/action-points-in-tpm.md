@@ -21,7 +21,7 @@ The Action point list in the TPM can be accessed by the following steps:
 
 The spreadsheet below describes the user roles and rights with AP in TPM.
 
-![User rights with AP in TPM](../../.gitbook/assets/19%20%282%29.png)
+![User rights with AP in TPM](../../.gitbook/assets/19%20%283%29.png)
 
 ## How to add and modify the AP in the TPM?
 
@@ -39,7 +39,7 @@ There is an additional option for **duplicating** of the AP in the end of each r
 
 Adding and modifying are provided in the modal screen with the similar options as [in the APD](../action-points-screens-1/how-to-add-new-action-point.md). 
 
-![Add Action Point modal window](../../.gitbook/assets/16%20%281%29.png)
+![Add Action Point modal window](../../.gitbook/assets/16%20%282%29.png)
 
 The difference is that Related partner field is filled in accordance with the Visit partner and displayed in the AP details **after the creation**. 
 

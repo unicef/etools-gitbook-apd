@@ -4,7 +4,7 @@ The created action point can be completed by users with [the corresponding right
 
 The **"Complete"** option is accessible in the drop-down list of the split button "Save".
 
-![Complete option](../../.gitbook/assets/15%20%281%29.png)
+![Complete option](../../.gitbook/assets/15%20%282%29.png)
 
 Closing the Action point is available once at least one **Action Taken** is added. See [How to modify the Action Point? ](created-opened-action-point.md)article for more details of the Actions Taken section. 
 

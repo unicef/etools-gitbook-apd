@@ -18,7 +18,7 @@ Once the Action point was created or Assignee was changed while editing the foll
 
 Adding Actions Taken is available in the following modal window opened via "+"  button:
 
-![Add Actions Taken button](../../.gitbook/assets/16.png)
+![Add Actions Taken button](../../.gitbook/assets/16%20%281%29.png)
 
 ![Add Actions Taken modal window](../../.gitbook/assets/17.png)
 
