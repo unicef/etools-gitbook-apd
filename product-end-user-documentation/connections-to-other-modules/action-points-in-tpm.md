@@ -21,7 +21,7 @@ The Action point list in the TPM can be accessed by the following steps:
 
 The spreadsheet below describes the user roles and rights with AP in TPM.
 
-![User rights with AP in TPM](../../.gitbook/assets/29%20%282%29.png)
+![User rights with AP in TPM](../../.gitbook/assets/31%20%281%29.png)
 
 ## How to add and modify the AP in the TPM?
 
