@@ -32,7 +32,7 @@ The UNICEF Follow-up Actions section is the Action Points list in FAM.
 
 The spreadsheet below describes the user roles and rights with AP in FAM.
 
-![User rights with the AP in FAM](../../.gitbook/assets/57.png)
+![User rights with AP in FAM](../../.gitbook/assets/28%20%282%29.png)
 
 ## How to add and modify the AP in the FAM?
 

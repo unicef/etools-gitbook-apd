@@ -16,7 +16,7 @@ The Action point list in the T2F can be accessed by the following steps:
 
 The spreadsheet below describes the user roles and rights with AP in T2F.
 
-![User rights with AP in T2F](../../.gitbook/assets/48.png)
+![User rights with AP in T2F](../../.gitbook/assets/30%20%281%29.png)
 
 ## How to create and modify the AP in the T2F? {#how-to-create-and-modify-the-ap-in-the-tpm}
 
