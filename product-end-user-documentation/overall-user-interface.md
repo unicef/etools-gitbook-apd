@@ -2,9 +2,7 @@
 
 Here is the overall user interface of Action Point Dashboard:
 
-![Overall user interface](../.gitbook/assets/5%20%284%29.png)
-
-
+![Overall user interface](../.gitbook/assets/11%20%281%29.png)
 
 **Header** with:
 
@@ -15,9 +13,7 @@ Here is the overall user interface of Action Point Dashboard:
 
 ![Header](../.gitbook/assets/6%20%282%29.png)
 
-![Switch](../.gitbook/assets/7%20%282%29.png)
-
-
+![Switch](../.gitbook/assets/12%20%282%29.png)
 
 **Сollapsible left navigation panel**  with:
 
@@ -32,7 +28,7 @@ In the bottom:
 
 * eTools Community Channels \("User support", "Discussion", "Information"\)
 
-![eTools Community Channels](../.gitbook/assets/9%20%282%29.png)
+![e-Tools Community Channels](../.gitbook/assets/13.png)
 
 
 

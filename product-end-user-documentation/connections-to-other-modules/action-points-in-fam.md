@@ -22,7 +22,7 @@ The Action point list in the FAM can be accessed  by the following steps:
 
         5. The section "UNICEF Follow-Up Actions" will be displayed for the "Follow-up" tab:
 
-![UNICEF Follow-up Actions section](../../.gitbook/assets/11%20%281%29.png)
+![UNICEF Follow-up Actions section](../../.gitbook/assets/11%20%282%29.png)
 
 {% hint style="info" %}
 The UNICEF Follow-up Actions section is the Action Points list in FAM.
@@ -42,7 +42,7 @@ The spreadsheet below describes the user roles and rights with AP in FAM.
 
 **Modifying:** via "Edit" button in the end of the row with particular AP:
 
-![Edit button](../../.gitbook/assets/13%20%281%29.png)
+![Edit button](../../.gitbook/assets/13%20%282%29.png)
 
 There is an additional option for **duplicating of** the AP in the end of each row behind the "Edit" button: 
 

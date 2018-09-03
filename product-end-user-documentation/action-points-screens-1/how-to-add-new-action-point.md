@@ -30,7 +30,7 @@ The user has an ability to set **high priority** for the action point by selecti
 
 When the required information is entered, the user can press "Create" button in the bottom of the status panel.
 
-![Create button](../../.gitbook/assets/13.png)
+![Create button](../../.gitbook/assets/13%20%281%29.png)
 
   
 ****In case of successful creating the user will be taken to the [next screen](created-opened-action-point.md) with the reference number of the created Action point in the title and the additional section “Action Taken”.
