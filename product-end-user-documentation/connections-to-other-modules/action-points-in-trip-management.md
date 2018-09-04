@@ -34,7 +34,7 @@ There is an additional option for **duplication** the AP in the end of each row 
 
 The creation and modifying are provided in the modal screen with the similar options as [in the APD](https://new-company.gitbook.io/action-points-dashboard/~/drafts/-LJsEypD-Q6kFSj9_L1b/primary/product-end-user-documentation/action-points-screens-1/how-to-add-new-action-point).
 
-![](../../.gitbook/assets/53.png)
+![Add Action Point modal window in T2F](../../.gitbook/assets/22%20%281%29.png)
 
 The difference is that Related partner field is filled in accordance with the Trip partner and displayed in the AP details **after the creation**. 
 
