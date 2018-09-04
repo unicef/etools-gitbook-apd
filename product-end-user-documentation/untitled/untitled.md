@@ -1,8 +1,8 @@
 # Objectives
 
-The Action Point Dashboard achieves the following **objectives**:
+The Action Point Dashboard helps to achieve the following **goals**:
 
-* Enable easy access to a central repository for capturing, modifying and tracking action points created in their respective modules
+* Enable easy access to a central repository for capturing, modifying and tracking action points created in corresponding modules
 * Enable the end-to-end action point processes for UNICEF Staff including:
   * Creation of action points
   * Modification of action points
