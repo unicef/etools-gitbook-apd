@@ -10,7 +10,7 @@ Switching to APD by selecting “Action Points”:
 
 ![Switch to Action Points](../.gitbook/assets/1%20%282%29.png)
 
-## **2\)** via "Dashboards" module
+## **2\)** via "Dashboards" module \(adding new AP\)
 
 1. Switching to Dashboards module via icon ![](../.gitbook/assets/4%20%282%29.png)  by selecting “Dashboards” :  
 
@@ -20,7 +20,7 @@ Switching to APD by selecting “Action Points”:
 
 ![Dashboard screen ](../.gitbook/assets/3%20%281%29.png)
 
-## **3\)** via other modules
+## **3\)** via other modules \(opening AP details for action points located in other modules\)
 
 Examples:
 
