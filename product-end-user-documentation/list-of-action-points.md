@@ -1,6 +1,6 @@
 # List of Action Points
 
-ilterable list of the Action points created as New in the current module or in the TPM, FM \(TBD\), AP, T2F modules. By default the **opened** and **completed** Action points are shown. The user can change the status  as desired.
+Filterable list of the Action points created as New in the current module or in the TPM, FM \(TBD\), AP, T2F modules. By default the **opened** and **completed** Action points are shown. The user can change the status  as desired.
 
 ![List of Action Points: overall user interface](../.gitbook/assets/14.png)
 
