@@ -13,7 +13,7 @@ Here is the overall user interface of Action Point Dashboard:
 
 ![Header](../.gitbook/assets/6%20%282%29.png)
 
-![Switch](../.gitbook/assets/12%20%282%29.png)
+![Switch to other applications](../.gitbook/assets/12%20%282%29.png)
 
 **Сollapsible left navigation panel**  with:
 
