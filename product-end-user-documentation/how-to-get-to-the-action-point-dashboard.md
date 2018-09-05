@@ -14,7 +14,7 @@ Switching to APD by selecting “Action Points”:
 
 1. Switching to Dashboards module via icon ![](../.gitbook/assets/4%20%282%29.png)  by selecting “Dashboards” :  
 
-![Switch to Dashboards](../.gitbook/assets/2%20%282%29.png)
+![Switch to Dashboards module](../.gitbook/assets/2%20%282%29.png)
 
 2. Clicking "Add Action Point" button:
 
