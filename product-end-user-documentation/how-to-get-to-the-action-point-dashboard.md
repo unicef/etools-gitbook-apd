@@ -29,6 +29,8 @@ Examples:
 * **Via TPM: "**List of Visits" section - "Action Points" section for TPM Reported and UNICEF Approved visits -  clicking on the reference number for particular row with AP;
 * **Via FAM: "**Follow-up" section for Final Report engagements - clicking on the reference number for particular row in the UNICEF Follow-Up Actions list  ****
 
+See the detailed information of the connections to other modules [here](connections-to-other-modules/). 
+
 ## **4\) via a link**
 
 The user can access the APD via the link in the email to a particular Action point assigned to him.
