@@ -26,7 +26,7 @@ In the top:
 
 In the bottom:
 
-* eTools Community Channels \("User support", "Discussion", "Information"\)
+* eTools Community Channels \("Knowledge Base", "Discussion", "Information"\)
 
 ![e-Tools Community Channels](../.gitbook/assets/13.png)
 
