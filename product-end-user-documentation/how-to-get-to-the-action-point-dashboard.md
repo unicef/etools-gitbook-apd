@@ -4,21 +4,19 @@ description: There are 4 ways  to get the Action Point Dashboard.
 
 # How to get to the Action Point Dashboard?
 
-## **1\)**  via app icon ![](../.gitbook/assets/4%20%282%29.png) 
+## **1\)**  via app icon ![](../.gitbook/assets/4%20%283%29.png) 
 
-Switching to another application or repository by selecting “Action Points”:
+Switching to APD by selecting “Action Points”:
 
 ![Switch to Action Points](../.gitbook/assets/1%20%282%29.png)
 
-## **2\)** via app icon ![](../.gitbook/assets/4%20%282%29.png) 
+## **2\)** via "Dashboards" module
 
-Switching to another application or repository by selecting “Dashboards” - “Add Action Point”:
-
-1.  
+1. Switching to Dashboards module via icon ![](../.gitbook/assets/4%20%282%29.png)  by selecting “Dashboards” :  
 
 ![Switch to Dashboards](../.gitbook/assets/2%20%282%29.png)
 
-2.  
+2. Clicking "Add Action Point" button:
 
 ![Dashboard screen ](../.gitbook/assets/3%20%281%29.png)
 
