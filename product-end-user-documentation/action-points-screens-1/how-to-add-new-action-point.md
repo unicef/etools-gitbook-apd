@@ -1,20 +1,20 @@
 # How to add the Action Point?
 
-User can add new action point using the correspong button in the top right corner of the Action Points screen.   
+Adding of the New Action Point is available via "Add action Point" button in the upper, right-hand corner in the top of the screen.  
 
 
 ![Top of the screen with  &quot;Add action point&quot; button](../../.gitbook/assets/10.png)
 
-After user clicks on this button, following screen will appear:
+The following screen is opened after the user clicks on the "Add action point" button:
 
 ![Add New Action Point screen](../../.gitbook/assets/4%20%281%29.png)
 
-There are 2 parts displayed on the screen: 
+There are 2 sections displayed on the screen: 
 
-* **Action Points Details:** to fill in all the necessary information regarding the action point.
+* **Action Points Details:** where the user can fill in all the necessary information regarding the action point.
 * **Status panel** that displays current AP status and has "Create" button.
 
-For the action point user can specify the following data using the corresponding fields: 
+For the action points details the user can specify the following data using the corresponding fields: 
 
 * IP information \(Partner, PD/SSFA, CP Output, Location\),
 * Description,
@@ -27,7 +27,7 @@ Data for some of these fields is presented as drop-down list and user can naviga
 
 User can indicate the priority level for action point by selecting the **high priority** checkbox.
 
-When all required information is entered, the user can press "Create" button at the bottom of the status panel.
+After all required information is entered, the user can press "Create" button at the bottom of the status panel.
 
 ![Create button](../../.gitbook/assets/13%20%281%29.png)
 
