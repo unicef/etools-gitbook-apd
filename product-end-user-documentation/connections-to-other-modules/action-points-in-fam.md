@@ -44,7 +44,7 @@ The spreadsheet below describes the user roles and rights with AP in FAM.
 
 ![Edit button](../../.gitbook/assets/13%20%282%29.png)
 
-There is an additional option for **duplicating of** the AP in the end of each row behind the "Edit" button: 
+There is an additional option for **duplicating** the AP in the end of each row behind the "Edit" button: 
 
 ![Duplicate button](../../.gitbook/assets/14%20%282%29.png)
 
