@@ -11,8 +11,8 @@ After user clicks on this button, following screen will appear:
 
 There are 2 parts displayed on the screen: 
 
-* Action Points Details - to fill in all the necessary information regarding the action point.
-* Status panel that display current AP status and have "Create" button.
+* **Action Points Details:** to fill in all the necessary information regarding the action point.
+* **Status panel** that displays current AP status and has "Create" button.
 
 For the action point user can specify the following data using the corresponding fields: 
 
@@ -32,5 +32,5 @@ When all required information is entered, the user can press "Create" button at 
 ![Create button](../../.gitbook/assets/13%20%281%29.png)
 
   
-****In case of successful creating the user will see to the [next screen](created-opened-action-point.md) with the reference number of the created Action point in the title and the additional section “Action Taken”.
+****In case of successful creating the user will be moved to the [next screen](created-opened-action-point.md) with the reference number of the created Action point in the title and the additional section “Action Taken”.
 
