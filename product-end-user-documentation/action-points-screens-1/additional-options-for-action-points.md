@@ -1,21 +1,26 @@
-# Additional options for Action Points
+# Additional options for AP
 
 ## **History**
 
-There is an opportunity to view History for modified Action Points.
+For the modified Action Points user has an opportunity to view the History of modifications. 
 
-**Last modify** is displayed in the bottom of Action Points Details:
+At the bottom right corner of the Action Points Details window, user can see the **Last modify** information: name of the user and date of the Last modification. 
 
-![Last modify in the bottom of Action Points Details](../../.gitbook/assets/9%20%281%29.png)
+![Last modify at the bottom of Action Points Details](../../.gitbook/assets/9%20%281%29.png)
 
-The **whole history** can be opened via "History" button above the status panel:
+The **whole history** of modifications can be opened via "History" button above the status panel:
 
 ![History button](../../.gitbook/assets/21%20%281%29.png)
 
-  
-And can be viewed in the following modal window:
+In **History** user can see:
 
-![History modal window](../../.gitbook/assets/22.png)
+* date, when changes were made
+* person, who made the changes
+* type of changes, that were made
+
+Overall view of the **History** modal window:
+
+![History of the Action Point](../../.gitbook/assets/2018-09-07_1318.png)
 
 ## Export
 

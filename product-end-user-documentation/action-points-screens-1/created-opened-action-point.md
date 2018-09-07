@@ -1,4 +1,4 @@
-# How to modify the Action Point?
+# Modification of AP
 
 Here is the overall user interface of the created Action Point:
 
@@ -16,15 +16,17 @@ Created Action point can be modified, viewed and completed by users with [the co
 
 Once the Action point was created or Assignee was changed while editing, the following email of assigned action point is sent to the Assignee:
 
+
+
 ![Email of assigned AP](../../.gitbook/assets/32.png)
 
 ## Actions Taken 
 
-User can add Actions Taken using the "+"  button in the corresponding section:  
-
 ![Add Actions Taken button](../../.gitbook/assets/16%20%281%29.png)
 
-After user clicks on this button, new modal window will appear:
+User can add Actions Taken using the "+"  button in the corresponding section:  
+
+After user clicks on this button, new modal window will appear, where user can write comments about the actions, that were taken in order to fulfill the AP requirements:
 
 ![Add Actions Taken modal window](../../.gitbook/assets/17.png)
 

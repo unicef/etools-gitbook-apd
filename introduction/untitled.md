@@ -1,8 +1,7 @@
 # Glossary / Terminology
 
-* AP - Action point
-* APD - Action Point Dashboard
-* **Action point** -  is a task that created and assigned to some individual and aimed to ensure a user can generate follow-up on the particular action which is attributed to a specific module \(Third Party Monitoring Module, Financial Assurance Module, Trip Management Module and Field Monitoring\) or not associated with an eTools Module \(Action Point Dashboard\).
+* **Action point \(AP\)** -  is a task that created and assigned to some individual and aimed to ensure a user can generate follow-up on the particular action which is attributed to a specific module \(Third Party Monitoring Module, Financial Assurance Module, Trip Management Module and Field Monitoring\) or not associated with an eTools Module \(Action Point Dashboard\).
+* APD - Action Points Dashboars
 * **Actions Taken** - specific actions performed to satisfy the particular action point.
 * **Assignee** - a person \(individual\) who is responsible to complete the action point.
 * CO - Country Office

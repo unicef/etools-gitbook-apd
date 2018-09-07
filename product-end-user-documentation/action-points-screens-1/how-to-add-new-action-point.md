@@ -1,4 +1,4 @@
-# How to add the Action Point?
+# Creation of AP
 
 Adding of the New Action Point is available via "Add action Point" button in the upper, right-hand corner in the top of the screen.  
 

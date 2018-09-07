@@ -2,9 +2,9 @@
 
 ## **How to access the APs list in the T2F?** {#how-to-access-the-aps-list-in-the-tpm}
 
-The Action point list in the T2F can be accessed by the following steps:
-
 1. Click the reference number for the particular row to open the trip in the List of Trips:
+
+ In the T2F user can access the Action points list through the following steps:
 
 ![List of trips in T2F](../../.gitbook/assets/41.png)
 
@@ -32,17 +32,13 @@ There is an additional option for **duplicating** the AP in the end of each row 
 
 ![Duplicate button](../../.gitbook/assets/52.png)
 
-The creation and modifying are provided in the modal screen with the similar options as [in the APD](https://new-company.gitbook.io/action-points-dashboard/~/drafts/-LJsEypD-Q6kFSj9_L1b/primary/product-end-user-documentation/action-points-screens-1/how-to-add-new-action-point).
+The creation and modificaltion are provided in the modal window with the similar options as [in the APD](https://new-company.gitbook.io/action-points-dashboard/~/drafts/-LJsEypD-Q6kFSj9_L1b/primary/product-end-user-documentation/action-points-screens-1/how-to-add-new-action-point).
 
 ![Add Action Point modal window in T2F](../../.gitbook/assets/22%20%281%29.png)
 
-The difference is that Related partner field is filled in accordance with the Trip partner and displayed in the AP details **after the creation**. 
+The difference is that the Related partner field is filled in accordance with the Trip partner and displayed in the AP details **after the creation**. 
 
 ## How to complete the AP in the T2F? {#how-to-complete-the-ap-in-the-tpm}
-
-Completing of the AP created in the T2F is available **via APD.**
-
-Clicking on the reference number for the particular AP moves the user to the AP details in APD.
 
  The AP details screen for the AP created in the T2F has some differences:
 
@@ -51,8 +47,12 @@ Clicking on the reference number for the particular AP moves the user to the AP 
 
 ![APD: Action Point Details for AP created in T2F](../../.gitbook/assets/49.png)
 
+User can complite the AP, created in the T2F, using the **APD**. 
+
+Each AP in T2F has the reference number, and by clicking on it user can open the AP details in APD.
+
 {% hint style="info" %}
-Modifying the AP created in the T2F is available in the APD as well.
+Modification of the AP, created in the T2F, is available in the APD as well.
 {% endhint %}
 
 

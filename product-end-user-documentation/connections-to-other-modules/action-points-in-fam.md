@@ -2,13 +2,13 @@
 
 ## How to access the APs list in the FAM?
 
-The Action point list in the FAM can be accessed  by the following steps:
+In the FAM user can access the Action points list through the following steps:
 
 1. Select "Engagements" section in the left navigation panel:
 
 ![Engagements section in FAM](../../.gitbook/assets/8%20%281%29.png)
 
-     2. Filter Engagements by "Final Report" status:
+     2. Filter Engagements by the "Final Report" status:
 
 ![Filtering by &quot;Final Report&quot; status](../../.gitbook/assets/9.png)
 
@@ -20,7 +20,7 @@ The Action point list in the FAM can be accessed  by the following steps:
 
 ![Engagement screen with Follow-up section ](../../.gitbook/assets/10%20%281%29.png)
 
-        5. The section "UNICEF Follow-Up Actions" will be displayed for the "Follow-up" tab:
+        5. The section "UNICEF Follow-Up Actions" will be displayed in the "Follow-up" tab:
 
 ![UNICEF Follow-up Actions section](../../.gitbook/assets/11%20%282%29.png)
 
@@ -30,7 +30,7 @@ The UNICEF Follow-up Actions section is the Action Points list in FAM.
 
 ## User rights
 
-The spreadsheet below describes the user roles and rights with AP in FAM.
+The spreadsheet below describes the user roles and rights for AP in FAM.
 
 ![User rights with AP in FAM](../../.gitbook/assets/32%20%281%29.png)
 
@@ -40,7 +40,7 @@ The spreadsheet below describes the user roles and rights with AP in FAM.
 
 ![Add action point button](../../.gitbook/assets/12%20%281%29.png)
 
-**Modifying:** via "Edit" button in the end of the row with particular AP:
+**Modifying:** via "Edit" button in the end of the row with the particular AP:
 
 ![Edit button](../../.gitbook/assets/13%20%282%29.png)
 
@@ -56,11 +56,11 @@ The difference is that "Related partner" field is filled in accordance with the 
 
 ## How to complete the AP in the FAM?
 
-Completing the AP created in the FAM is available **via APD.**
+User can complite the AP, created in the FAM, using the **APD**. 
 
-Clicking on the reference number for the particular AP moves the user to the AP details in APD.
+Each AP in FAM has the reference number, and by clicking on it user can open the AP details in APD.
 
- The AP details screen for the AP created in the FAM has some differences:
+ The AP details screen for the AP, created in the FAM, has some differences:
 
 * The corresponding name of module is displayed in the Related app field,
 * Related Document field includes link to the task related to the Action point.
@@ -68,7 +68,7 @@ Clicking on the reference number for the particular AP moves the user to the AP 
 ![APD: Action Point Details for AP created in FAM](../../.gitbook/assets/18%20%282%29.png)
 
 {% hint style="info" %}
-Modifying the AP created in the FAM is available in the APD as well.
+Modification of the Action Points, created in the FAM, is available in the APD as well.
 {% endhint %}
 
 
