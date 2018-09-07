@@ -33,7 +33,7 @@ The spreadsheet below describes the user roles and rights with AP in TPM.
 
 ![Edit button](../../.gitbook/assets/4.png)
 
-There is an additional option for **duplicating** of the AP in the end of each row behind the "Edit" button:
+There is an additional option for **duplicating** the AP in the end of each row behind the "Edit" button:
 
 ![Duplicate button](../../.gitbook/assets/etools-google-chrome-2018-08-11-18.52.50.png)
 

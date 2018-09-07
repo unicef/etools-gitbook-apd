@@ -28,7 +28,7 @@ The spreadsheet below describes the user roles and rights with AP in T2F.
 
 ![Edit button](../../.gitbook/assets/51.png)
 
-There is an additional option for **duplication** the AP in the end of each row behind the edit button:
+There is an additional option for **duplicating** the AP in the end of each row behind the edit button:
 
 ![Duplicate button](../../.gitbook/assets/52.png)
 
