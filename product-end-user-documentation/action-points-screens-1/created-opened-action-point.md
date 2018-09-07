@@ -4,7 +4,7 @@ Here is the overall user interface of the created Action Point:
 
 ![Created \(opened\) Action Point](../../.gitbook/assets/37.png)
 
-Every created AP has the reference number, which can be found in the top left corner of the screen, right under the header.
+Each created AP has the reference number, which can be found in the top left corner of the screen, right under the header.
 
 Also, new section called "**Actions Taken**" appears under the Action Points Details. This section is required The user has to fill in at least one Action Taken in order to be able to complete the AP. 
 
