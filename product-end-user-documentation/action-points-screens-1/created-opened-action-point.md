@@ -1,6 +1,6 @@
 # Modification of AP
 
-Here is the overall user interface of the created Action Point:
+Here is the overall user interface for the created Action Point:
 
 ![Created \(opened\) Action Point](../../.gitbook/assets/37.png)
 
@@ -24,9 +24,9 @@ Once the Action point was created or Assignee was changed while editing, the fol
 
 ![Add Actions Taken button](../../.gitbook/assets/16%20%281%29.png)
 
-User can add Actions Taken using the "+"  button in the corresponding section:  
-
 After user clicks on this button, new modal window will appear, where user can write comments about the actions, that were taken in order to fulfill the AP requirements:
+
+User can add Actions Taken using the "+"  button in the corresponding section:  
 
 ![Add Actions Taken modal window](../../.gitbook/assets/17.png)
 
@@ -38,7 +38,7 @@ The Action Points Details screen for the action points that were created in othe
 * Related Document field includes link to the task, associated with the Action point.
 
 {% hint style="info" %}
-_For AP created in action points dashboard, Related Document field will be empty._ 
+For AP created in action points dashboard, Related Document field will be empty. 
 {% endhint %}
 
 \_\_
