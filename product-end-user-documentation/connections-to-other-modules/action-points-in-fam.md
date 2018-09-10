@@ -56,9 +56,11 @@ The difference is that "Related partner" field is filled in accordance with the 
 
 ## How to complete the AP in the FAM?
 
-User can complite the AP, created in the FAM, using the **APD**. 
+User can complete the AP which is created in the FAM by using the **APD**. 
 
-Each AP in FAM has the reference number, and by clicking on it user can open the AP details in APD.
+Clicking on the reference number for particular AP takes the user to the AP details in APD.
+
+![Reference number for AP in FAM](../../.gitbook/assets/59.png)
 
  The AP details screen for the AP, created in the FAM, has some differences:
 
