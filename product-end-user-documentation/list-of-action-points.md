@@ -1,48 +1,45 @@
 # List of Action Points
 
-Filterable list of the Action points created as New in the current module or in the TPM, FM \(TBD\), AP, T2F modules. By default the **opened** and **completed** Action points are shown. The user can change the status  as desired.
+List of Action Points contains all of the AP, no matter how they were created - using the APD or any other module \(TPM, FM \(TBD\), AP, T2F\). By default, user sees both open and completed Action Points, but it can be changed using the switcher in the top right corner, that allows to disable displaying of the completed AP. 
 
-![List of Action Points: overall user interface](../.gitbook/assets/14.png)
+![List of Action Points overview](../.gitbook/assets/2018-09-10_1653.png)
 
-Additional set of data for each row  can be opened via arrow behind the reference number.
+**Action Point overview** can be quickly opened using the arrow behind the reference number. Here user can find most of the information regarding the chosen AP. 
 
 ![Arrow behind the reference number](../.gitbook/assets/15%20%281%29.png)
 
-Each row can be **sorted by columns** in either ascending or descending order.
+Clicking on the reference number for each row will take user to the corresponding **Action point Details**. The detailed information of Action Points Details screen see [here](action-points-screens-1/created-opened-action-point.md).
 
-Displayed rows in the table can be **limited per page**.  The default is 10 rows per page.
+User can choose the **number of the displayed Action Points per page**, it can be selected in the following dropdown field \(the default value is 10 rows per page\):
 
 ![Rows per page](../.gitbook/assets/16.png)
 
-Clicking on the reference number for each row will take user to the corresponding Action point Details. The detailed information of Action Points Details screen see [here](action-points-screens-1/created-opened-action-point.md).
+User also can **sort columns** in either ascending or descending order.
 
 ## Export
 
-The List of Action points can be exported to **CSV** file by "Export" button in the upper, right-hand corner. 
+The List of Action points can be exported to **CSV** file using the "Export" button in the upper right-hand corner. 
 
 ![Export button](../.gitbook/assets/17%20%282%29.png)
 
 ## **Searching**
 
-The user is able to use the search bar in the upper, left-hand corner to execute a data search.  ****
+User can search through the AP, and the search can be perfomed for a variety of the fields, e.g.  CP Output, Partner, Office of Assignee, Section of Assignee, Assignee, Status, Priority.
 
-![Search bar in the upper, left-hand corner](../.gitbook/assets/18%20%281%29.png)
+![Search bar in the upper left-hand corner](../.gitbook/assets/18%20%281%29.png)
 
 ## Filtering
 
-In the upper, right-hand corner the user can use "Add filter" option with set of parameters to be chosen.
+In the upper right-hand corner the user can use "Add filter" option with set of parameters to be chosen.   
+List can be filtered using the different kinds of filters: Assigned By, Assignee, CP Output, Due After, Due Before, Due On, High Priority, Location, Office, Partner, PD/SSFA, Related App, Section, Status.
 
-![Add Filter option with set of parameters](../.gitbook/assets/19%20%282%29.png)
+![Add Filter option with the available filters](../.gitbook/assets/19%20%282%29.png)
 
-The additional search field appears behind search bar after particular filter parameter has been selected.  
+The additional search field appears behind the search bar after the particular filter has been selected.  
 
 **Example:**  Filter “Assigned by “ is selected: 
 
-![Additional set for filter](../.gitbook/assets/20%20%281%29.png)
-
-There is additional short cut for status sorting which is provided by “Show completed” switcher behind "Add filter" option.  The switcher is "ON" by default. 
-
-![Show completed filter](../.gitbook/assets/21.png)
+![Additional search field for the filter](../.gitbook/assets/20%20%281%29.png)
 
   
 ****
