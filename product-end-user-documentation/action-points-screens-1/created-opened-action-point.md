@@ -6,7 +6,7 @@ Here is the overall user interface for the created Action Point:
 
 Each created AP has the reference number, which can be found in the top left corner of the screen, right under the header.
 
-Also, new section called "**Actions Taken**" appears under the Action Points Details. This section is required The user has to fill in at least one Action Taken in order to be able to complete the AP. 
+Also, new section called "**Actions Taken**" appears under the Action Points Details. This section is required. The user has to fill in at least one Action Taken in order to be able to complete the AP. 
 
 **"Save"** button with the additional option for [completion](how-to-complete-the-action-point.md) is displayed at the bottom of the status panel. 
 
@@ -22,11 +22,11 @@ Once the Action point was created or Assignee was changed while editing, the fol
 
 ## Actions Taken 
 
+User can add Actions Taken using the "+"  button in the corresponding section:  
+
 ![Add Actions Taken button](../../.gitbook/assets/16%20%281%29.png)
 
 After user clicks on this button, new modal window will appear, where user can write comments about the actions, that were taken in order to fulfill the AP requirements:
-
-User can add Actions Taken using the "+"  button in the corresponding section:  
 
 ![Add Actions Taken modal window](../../.gitbook/assets/17.png)
 
