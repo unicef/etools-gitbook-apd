@@ -17,18 +17,22 @@ The overall user interface of the Action Point Dashboard is presented on the scr
 
 **Сollapsible left navigation panel**  with:
 
-In the top:
+At the top:
 
-* label,
+* label with the module name,
 * Action Points section.
 
 ![Top of the left navigation panel](../.gitbook/assets/8.png)
 
-In the bottom:
+At the bottom:
 
 * eTools Community Channels \("Knowledge Base", "Discussion", "Information"\)
 
 ![Bottom of the left navigation panel](../.gitbook/assets/13.png)
 
+**List of Action Points** is the main element on this page:
 
+![](../.gitbook/assets/2018-09-10_1641.png)
+
+This list provides user with the ability to manage all of the created Action Points: open details of the specific AP or quickly see its overview. Detailed description of the AP list can be found [here](https://razortheory.gitbook.io/action-points-dashboard/~/edit/drafts/-LM2Q6TpT0_6f2a9VRTq/product-end-user-documentation/list-of-action-points)
 
