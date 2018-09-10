@@ -58,7 +58,7 @@ The difference is that "Related partner" field is filled in accordance with the 
 
 User can complete the AP which is created in the FAM by using the **APD**. 
 
-Clicking on the reference number for particular AP takes the user to the AP details in APD.
+Clicking the reference number for particular AP takes the user to the AP details in APD.
 
 ![Reference number for AP in FAM](../../.gitbook/assets/59.png)
 
@@ -70,7 +70,7 @@ Clicking on the reference number for particular AP takes the user to the AP deta
 ![APD: Action Point Details for AP created in FAM](../../.gitbook/assets/18%20%282%29.png)
 
 {% hint style="info" %}
-Modification of the Action Points, created in the FAM, is available in the APD as well.
+Modification of the AP, created in the FAM, is available in the APD as well.
 {% endhint %}
 
 
