@@ -1,37 +1,39 @@
 ---
-description: There are 4 ways  to get the Action Point Dashboard.
+description: There are 4 ways of how user can get to the Action Point Dashboard.
 ---
 
 # How to get to the Action Point Dashboard?
 
-## **1\)**  via app icon ![](../.gitbook/assets/4%20%283%29.png) 
+## **1\)**  via the app icon ![](../.gitbook/assets/4%20%283%29.png) 
 
-Switching to APD by selecting “Action Points”:
+User can switch to the APD by selecting “Action Points” module icon:
 
 ![Switch to Action Points](../.gitbook/assets/1%20%282%29.png)
 
-## **2\)** via "Dashboards" module \(adding new AP\)
+## **2\)** via the "Dashboards" module \(adding new AP\)
 
-1. Switching to Dashboards module via icon ![](../.gitbook/assets/4%20%282%29.png)  by selecting “Dashboards” :  
+1. User needs to switch to the Dashboards module via icon ![](../.gitbook/assets/4%20%282%29.png)  by selecting “Dashboards” :  
 
 ![Switch to Dashboards module](../.gitbook/assets/2%20%282%29.png)
 
-2. Clicking "Add Action Point" button:
+2. Then user needs to click the "Add Action Point" button:
 
 ![Dashboard screen ](../.gitbook/assets/3%20%281%29.png)
 
-## **3\)** via other modules \(opening AP details for action points located in other modules\)
+## **3\)** via the other modules 
+
+In other modules user should open AP details of the created in the corresponding module Action Point. 
 
 Examples:
 
-* **Via TPM: "**List of Visits" section - "Action Points" section for TPM Reported and UNICEF Approved visits -  clicking on the reference number for particular row with AP;
-* **Via FAM: "**Follow-up" section for Final Report engagements - clicking on the reference number for particular row in the UNICEF Follow-Up Actions list  ****
+* **Via the TPM: "**List of Visits" section - "Action Points" section for TPM Reported and UNICEF Approved visits -  clicking on the reference number for particular row with AP;
+* **Via the FAM: "**Follow-up" section for Final Report engagements - clicking on the reference number for particular row in the UNICEF Follow-Up Actions list  ****
 
-See the detailed information of the connections to other modules [here](connections-to-other-modules/). 
+See the detailed information on the connections to other modules [here](connections-to-other-modules/). 
 
-## **4\) via a link**
+## **4\) via the direct link**
 
-The user can access the APD via the link in the email to a particular Action point assigned to him.
+User can access the APD via the link in the email to a particular Action point that is assigned to him.
 
   
 
