@@ -2,14 +2,14 @@
 
 ## **How to access the APs list in the TPM?**
 
+In the TPM user can access the Action points list through the following steps:
+
 1. Select List of Visits in the left navigation panel: 
 
    ![](../../.gitbook/assets/1.png)
 
 2. Filter list by the Status \("TPM Reported" or "UNICEF Approved"\);
-3. Click the reference number for the particular row to open the visit:
-
- In the TPM user can access the Action points list through the following steps:
+3. Click the reference number for the particular row to open the visit: 
 
 ![List of Visits filtered by &quot;TPM Reported&quot; status](../../.gitbook/assets/58.png)
 
@@ -45,16 +45,18 @@ The difference is that Related partner field is filled in accordance with the Vi
 
 ## How to complete the AP in the TPM?
 
-The AP details screen for the AP, created in the TPM has some differences:
+User can complete the AP which is created in the TPM  by using the **APD**. 
 
-* The corresponding name of module is displayed in the Related app field;
+Clicking on the reference number for particular AP takes the user to the AP details in APD.
+
+![Reference number for AP in the TPM](../../.gitbook/assets/62.png)
+
+The AP details screen for the AP which is created in the TPM has some differences:
+
+* The corresponding name of module is displayed in the Related app field,
 * Related Document field includes link to the task related to the Action point.
 
 ![APD: Action Point Details for AP created in TPM ](../../.gitbook/assets/6%20%283%29.png)
-
-User can complite the AP, created in the TPM, using the **APD**. 
-
-Each AP in TMP has the reference number, and by clicking on it user can open the AP details in APD.
 
 {% hint style="info" %}
 Modification of the AP, created in the TPM,  is available in the APD as well.
