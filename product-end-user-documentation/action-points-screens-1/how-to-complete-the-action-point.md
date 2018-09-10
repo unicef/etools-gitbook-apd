@@ -16,7 +16,7 @@ If no Actions Taken are added, the following error message will be displayed:
 
 The whole Action Points Workflow you can find [here](../action-points-workflow.md).
 
-## Email
+## Email notification
 
 Once the action point is completed, user, that created the AP,  will receive the following email:
 
