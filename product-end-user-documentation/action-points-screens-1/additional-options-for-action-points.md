@@ -18,7 +18,7 @@ In **History** user can see:
 * person, who made the changes
 * type of changes, that were made
 
-Overall view of the **History** modal window:
+Here is overall view of the **History** modal window:
 
 ![History of the Action Point](../../.gitbook/assets/2018-09-07_1318.png)
 
