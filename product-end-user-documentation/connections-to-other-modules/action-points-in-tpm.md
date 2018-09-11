@@ -1,6 +1,6 @@
 # Action Points in TPM
 
-## **How to access the APs list in the TPM?**
+## **AP list in TPM**
 
 In the TPM user can access the Action points list through the following steps:
 
@@ -23,7 +23,7 @@ The spreadsheet below describes the user roles and rights for AP in TPM.
 
 ![User rights with AP in TPM](../../.gitbook/assets/31%20%281%29.png)
 
-## How to add and modify the AP in the TPM?
+## Modification of the AP in TPM
 
 **Adding:** via "+" button in the upper, right-hand corner of the list of APs:
 
@@ -43,7 +43,7 @@ Adding and modifying are provided in the modal screen with the similar options a
 
 The difference is that Related partner field is filled in accordance with the Visit partner and displayed in the AP details **after the creation**. 
 
-## How to complete the AP in the TPM?
+## Completion of the AP in TPM
 
 User can complete the AP which is created in the TPM  by using the **APD**. 
 
@@ -59,7 +59,7 @@ The AP details screen for the AP which is created in the TPM has some difference
 ![APD: Action Point Details for AP created in TPM ](../../.gitbook/assets/6%20%283%29.png)
 
 {% hint style="info" %}
-Modification of the AP,  created in the TPM,  is available in the APD as well.
+Modification of the AP,  created in TPM,  is available in the APD as well.
 {% endhint %}
 
   

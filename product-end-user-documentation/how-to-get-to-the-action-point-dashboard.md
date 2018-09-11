@@ -1,8 +1,6 @@
----
-description: There are 4 ways of how user can get to the Action Point Dashboard.
----
+# Action Points Dashboard Navigation
 
-# How to get to the Action Point Dashboard?
+### There are 4 ways of how user can get to the Action Point Dashboard.
 
 ## **1\)**  via the app icon ![](../.gitbook/assets/4%20%283%29.png) 
 

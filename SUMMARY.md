@@ -14,7 +14,7 @@
 * [Overview](product-end-user-documentation/untitled/README.md)
   * [Objectives](product-end-user-documentation/untitled/untitled.md)
   * [User  roles and permissions](product-end-user-documentation/untitled/user-roles-and-permissions.md)
-* [How to get to the Action Point Dashboard?](product-end-user-documentation/how-to-get-to-the-action-point-dashboard.md)
+* [Action Points Dashboard Navigation](product-end-user-documentation/how-to-get-to-the-action-point-dashboard.md)
 * [Overall user Interface](product-end-user-documentation/overall-user-interface.md)
 * [List of Action Points](product-end-user-documentation/list-of-action-points.md)
 * [Action Points Workflow](product-end-user-documentation/action-points-workflow.md)
