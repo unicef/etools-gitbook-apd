@@ -1,6 +1,6 @@
 # Creation of AP
 
-Adding of the New Action Point is available via "Add action Point" button in the upper, right-hand corner in the top of the screen.  
+Adding of the New Action Point is available via the "Add action Point" button in the upper right-hand corner at the top of the screen.  
 
 
 ![Top of the screen with  &quot;Add action point&quot; button](../../.gitbook/assets/10.png)
@@ -12,7 +12,7 @@ The following screen is opened after the user clicks on the "Add action point" b
 There are 2 sections displayed on the screen: 
 
 * **Action Points Details:** where the user can fill in all the necessary information regarding the action point.
-* **Status panel** that displays current AP status and has "Create" button.
+* **Status panel,** that displays current AP status and has "Create" button.
 
 For the action points details the user can specify the following data using the corresponding fields: 
 
