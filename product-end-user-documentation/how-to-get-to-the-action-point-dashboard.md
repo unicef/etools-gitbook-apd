@@ -20,14 +20,14 @@ User can switch to the APD by selecting “Action Points” module icon:
 
 ## **3\)** via the other modules 
 
-In other modules user should open AP details of the created in the corresponding module Action Point. 
+In other modules user should open AP details of the Action Point which is created in the corresponding module . 
 
 Examples:
 
-* **Via the TPM: "**List of Visits" section - "Action Points" section for TPM Reported and UNICEF Approved visits -  clicking on the reference number for particular row with AP;
-* **Via the FAM: "**Follow-up" section for Final Report engagements - clicking on the reference number for particular row in the UNICEF Follow-Up Actions list  ****
+* **Via the TPM: "**List of Visits" section - "Action Points" section for TPM Reported and UNICEF Approved visits -  clicking the reference number for particular row with AP;
+* **Via the FAM: "**Follow-up" section for Final Report engagements - clicking the reference number for particular row in the UNICEF Follow-Up Actions list  ****
 
-See the detailed information on the connections to other modules [here](connections-to-other-modules/). 
+See the detailed information about the connections to other modules [here](connections-to-other-modules/). 
 
 ## **4\) via the direct link**
 
