@@ -1,6 +1,6 @@
 # Overall user Interface
 
-The overall user interface of the Action Point Dashboard is presented on the screenshot:
+The overall user interface of the Action Point Dashboard is presented in the screenshot:
 
 ![Overall user interface](../.gitbook/assets/11%20%281%29.png)
 
