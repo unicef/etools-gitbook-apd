@@ -47,7 +47,7 @@ The difference is that Related partner field is filled in accordance with the Vi
 
 User can complete the AP which is created in the TPM  by using the **APD**. 
 
-Clicking the reference number for particular AP takes the user to the AP details in APD.
+Clicking the reference number of the particular AP takes the user to the AP details in APD.
 
 ![Reference number for AP in the TPM](../../.gitbook/assets/62.png)
 

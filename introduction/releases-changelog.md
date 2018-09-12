@@ -1,18 +1,12 @@
 # Releases / Changelog\*
 
-## 1.0.1 - 2018.... {#1-0-1-2018}
+## September 2018 {#1-0-1-2018}
 
-### Fixed {#fixed}
+During the workshop the APD module was discussed, approved and passed on to the UNICEF team 
 
-* TBD
+## August 2018  {#1-0-0-2018}
 
-### Changed {#changed}
-
-* TBD
-
-## 1.0.0 - 2018.... {#1-0-0-2018}
-
-### Added {#added}
+Action Points Dashboard went live as one of the eTools modules.
 
 
 

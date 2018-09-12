@@ -7,7 +7,6 @@
 * CO - Country Office
 * CP output -  Country Programme Output
 * CSO - Civil Society Organization
-* **Due on** - deadline for the user to complete the assigned Action Point.
 * **IP** \(Implementing Partner\) -  a CSO that receives resources from UNICEF for the implementation of a programme document or small-scale funding agreement.
 * FAM - Financial Assurance Module
 * FM - Field Monitoring
