@@ -5,7 +5,7 @@ Adding of the New Action Point is available via the "Add action Point" button in
 
 ![Top of the screen with  &quot;Add action point&quot; button](../../.gitbook/assets/10.png)
 
-The following screen is opened after the user clicks on the "Add action point" button:
+The following screen is opened after the user clicks  the "Add action point" button:
 
 ![Add New Action Point screen](../../.gitbook/assets/4%20%281%29.png)
 

@@ -34,5 +34,5 @@ At the bottom:
 
 ![](../.gitbook/assets/2018-09-10_1641.png)
 
-This list provides user with the ability to manage all of the created Action Points: open details of the specific AP or quickly see its overview. Detailed description of the AP list can be found [here](https://razortheory.gitbook.io/action-points-dashboard/~/edit/drafts/-LM2Q6TpT0_6f2a9VRTq/product-end-user-documentation/list-of-action-points)
+This list provides the ability to manage all of the created Action Points: open details of the specific AP or quickly see its overview. Detailed description of the AP list can be found [here](https://razortheory.gitbook.io/action-points-dashboard/~/edit/drafts/-LM2Q6TpT0_6f2a9VRTq/product-end-user-documentation/list-of-action-points)
 
