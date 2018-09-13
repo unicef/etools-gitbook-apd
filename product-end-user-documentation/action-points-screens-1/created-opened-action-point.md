@@ -12,14 +12,6 @@ Also, new section called "**Actions Taken**" appears under the Action Points Det
 
 Created Action point can be modified, viewed and completed by users with [the corresponding permissions](../untitled/user-roles-and-permissions.md).
 
-## Email notification
-
-Once the Action point was created or Assignee was changed while editing, the following email of assigned action point is sent to the Assignee:
-
-
-
-![Email of assigned AP](../../.gitbook/assets/32.png)
-
 ## Actions Taken 
 
 User can add Actions Taken using the "+"  button in the corresponding section:  

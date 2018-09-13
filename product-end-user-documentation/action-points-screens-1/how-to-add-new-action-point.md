@@ -34,3 +34,11 @@ After all required information is entered, the user can press "Create" button at
   
 ****In case of successful creating the user will be moved to the [next screen](created-opened-action-point.md) with the reference number of the created Action point in the title and the additional section “Action Taken”.
 
+## Email notification
+
+Once the Action point was created or Assignee was changed while editing, the following email of assigned action point is sent to the **Assignee**:
+
+![Email of assigned AP](../../.gitbook/assets/32.png)
+
+## 
+
