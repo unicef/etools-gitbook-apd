@@ -4,6 +4,8 @@ The overall user interface of the Action Point Dashboard is presented in the scr
 
 ![Overall user interface](../.gitbook/assets/11%20%281%29.png)
 
+The following sections are represented for overall UI:
+
 **Header** with:
 
 * reload icon,
