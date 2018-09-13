@@ -18,7 +18,7 @@ The whole Action Points Workflow you can find [here](../action-points-workflow.m
 
 ## Email notification
 
-Once the action point is completed, user, that created the AP,  will receive the following email:
+Once the action point is completed, user, who is **Assigned by**,  will receive the following email:
 
 ![Email of completed AP](../../.gitbook/assets/33.png)
 
