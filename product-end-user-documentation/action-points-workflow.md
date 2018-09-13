@@ -2,5 +2,5 @@
 
 Here is an overview of the action points workflow:
 
-![](../.gitbook/assets/action-point-workflow-2%20%282%29.png)
+![](../.gitbook/assets/action-point-workflow%20%281%29.png)
 
