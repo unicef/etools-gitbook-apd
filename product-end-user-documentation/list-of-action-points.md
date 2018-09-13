@@ -8,7 +8,7 @@ List of Action Points contains all of the AP, no matter how they were created - 
 
 ![Arrow behind the reference number](../.gitbook/assets/15%20%281%29.png)
 
-Clicking on the reference number for each row will take user to the corresponding **Action point Details**. The detailed information of Action Points Details screen see [here](action-points-screens-1/created-opened-action-point.md).
+Clicking the reference number for each row will take user to the corresponding **Action point Details**. The detailed information of Action Points Details screen see [here](action-points-screens-1/created-opened-action-point.md).
 
 User can choose the **number of the displayed Action Points per page**, it can be selected in the following dropdown field \(the default value is 10 rows per page\):
 
