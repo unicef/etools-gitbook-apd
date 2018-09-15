@@ -2,11 +2,11 @@
 
 List of Action Points contains all of the AP, no matter how they were created - using the APD or any other module \(TPM, FM \(TBD\), AP, T2F\). By default, user sees both open and completed Action Points, but it can be changed using the switcher in the top right corner, that allows to disable displaying of the completed AP. 
 
-![List of Action Points overview](../.gitbook/assets/2018-09-10_1653.png)
+![List of Action Points](../.gitbook/assets/2018-09-10_1653.png)
 
 **Action Point overview** can be quickly opened using the arrow behind the reference number. Here user can find most of the information regarding the chosen AP. 
 
-![Arrow behind the reference number](../.gitbook/assets/15%20%281%29.png)
+![Arrow near the reference number](../.gitbook/assets/15%20%281%29.png)
 
 Clicking the reference number for each row will take user to the corresponding **Action point Details**. The detailed information of Action Points Details screen see [here](action-points-screens-1/created-opened-action-point.md).
 
@@ -35,7 +35,7 @@ List can be filtered using the different kinds of filters: Assigned By, Assignee
 
 ![Add Filter option with the available filters](../.gitbook/assets/19%20%282%29.png)
 
-The additional search field appears behind the search bar after the particular filter has been selected.  
+After the user selects the required filter from the Filters list, field with the droprown list of options and search fuction appears on the left side: 
 
 **Example:**  Filter “Assigned by “ is selected: 
 
