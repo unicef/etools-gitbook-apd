@@ -38,4 +38,5 @@
 * [Data Model](technical-documentation/data-model.md)
 * [API Documentation](technical-documentation/api-documentation/README.md)
   * [Error Handling](technical-documentation/api-documentation/error-handling.md)
+* [Backend module structure](technical-documentation/backend-module-structure.md)
 
