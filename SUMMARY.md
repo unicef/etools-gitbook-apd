@@ -40,4 +40,8 @@
   * [Error Handling](technical-documentation/api-documentation/error-handling.md)
 * [Backend module structure](technical-documentation/backend-module-structure.md)
 * [Integration with permissions framework](technical-documentation/integration-with-permissions-framework.md)
+* [Frontend](technical-documentation/frontend/README.md)
+  * [Module structure](technical-documentation/frontend/module-structure.md)
+  * [Build process](technical-documentation/frontend/build-process.md)
+  * [Tests](technical-documentation/frontend/tests.md)
 
