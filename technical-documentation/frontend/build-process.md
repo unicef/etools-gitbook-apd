@@ -1,6 +1,6 @@
 # Build process
 
-You can use Gulp comands to build the Action Points application. There is difference beetwen building module for development or production.  You can find details on the realisation specific gulp tasks in `gulp-tasks/` directory.
+You can use Gulp comands to build the Action Points Dashboard application. There is difference beetwen building module for development or production.  You can find details on the realisation specific gulp tasks in `gulp-tasks/` directory.
 
 ### Development
 
