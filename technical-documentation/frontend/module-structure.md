@@ -20,7 +20,7 @@ I
 {% endtab %}
 {% endtabs %}
 
-In application root directory you can find all configuration files for development and build process. Here you can find Docker config files, configs for code linting, tests, gulp config, node server. Code for gulp tasks is placed in  `gulp-tasks/` directory. You can find all application elements in `src/elements/` directory. In `tests/` directory you can find entry point for tests.
+In the application root directory you can find all configuration files for development and build process. Here you can find Docker config files, configs for code linting, tests, gulp config, node server. Code for gulp tasks is placed in  `gulp-tasks/` directory. You can find all application elements in `src/elements/` directory. In `tests/` directory you can find entry point for tests.
 
 ## Elements directory structure
 
@@ -55,7 +55,7 @@ In `elements/` you can find:
 
 ## Component structure
 
-Almost all application components are splitted into 3 separate files: 
+Almost all application components are split into 3 separate files: 
 
 * html file with component template
 * js file with components logic
@@ -65,7 +65,7 @@ Almost all application components are splitted into 3 separate files:
 
 Polytempl plugin helps combine separate components files and resolve imports.
 
-You need specify special html comment to combine your html template file with js and scss files:
+You need to specify the special html comment to combine your html template file with js and scss files:
 
 ```text
 <!-- inject styles './path_to_styles.scss'-->
@@ -77,7 +77,7 @@ or
 <!-- inject scripts './path_to_logic.js'-->
 ```
 
-You can specify special html comment for imports. Polytempl will look for this components in your src files at first and than in `bower_components/` . See more details about Polytempl [here](https://www.npmjs.com/package/polytempl).
+You can specify the special html comment for imports. Polytempl will look for this components in your src files at first and than in `bower_components/` . See more details about Polytempl [here](https://www.npmjs.com/package/polytempl).
 
 ```text
 <!--import [polymer]-->

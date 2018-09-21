@@ -1,6 +1,6 @@
 # Integration with permissions framework
 
-Action points dashboard is tightly connected with permissions framework. For their updating special management command were written. It can be called as
+Action points dashboard is tightly connected with permissions framework. Special management command were written to update them. It can be called as
 
 ```text
 python manage.py update_action_points_permissions

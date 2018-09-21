@@ -4,7 +4,7 @@ description: EtoolsAction Points Dashboard Front-End module
 
 # Frontend
 
-This module was developed using the [Polymer](https://www.polymer-project.org/) library \(version 2.x\) and [Material Design](https://material.io/) concept. [Polytempl](https://www.npmjs.com/package/polytempl) plugin was used as helper in development process and [Gulp](https://gulpjs.com/) was used to [build]() application.
+This module was developed using the [Polymer](https://www.polymer-project.org/) library \(version 2.x\) and [Material Design](https://material.io/) concept. [Polytempl](https://www.npmjs.com/package/polytempl) plugin was used as helper in development process and [Gulp](https://gulpjs.com/) was used to build application.
 
 ## Installation
 
