@@ -1,6 +1,6 @@
 # Data Model
 
-The high-level conceptual data model for the product is presented below. It is designed to provide the common mechanism to track action points, coming from all modules. Currently Action Point can be linked to Financial Assurance, Third Party Monitoring and Trip Management modules with corresponding model relations.
+The high-level conceptual data model for the product is presented below. It is designed to provide the common mechanism to track action points, coming from all modules. Currently AP can be linked to FAM, TPM and TM modules with corresponding model relations.
 
 ![](../.gitbook/assets/action_points.png)
 

@@ -1,12 +1,12 @@
-# Additional options for AP
+# Additional options for Action Point
 
 ## **History**
 
-For the modified Action Points user has an opportunity to view the History of modifications. 
+For the modified APs user has an opportunity to view the History of modifications. 
 
-At the bottom right corner of the Action Points Details window, user can see the **Last modify** information: name of the user and date of the Last modification. 
+At the bottom right corner of the APs Details window, user can see the **Last modify** information: name of the user and date of the Last modification. 
 
-![Last modify at the bottom of Action Points Details](../../.gitbook/assets/9%20%281%29.png)
+![Last modify at the bottom of APs Details](../../.gitbook/assets/9%20%281%29.png)
 
 The **whole history** of modifications can be opened via "History" button above the status panel:
 
@@ -20,11 +20,11 @@ In **History** user can see:
 
 Here is overall view of the **History** modal window:
 
-![History of the Action Point](../../.gitbook/assets/2018-09-07_1318.png)
+![History of the AP](../../.gitbook/assets/2018-09-07_1318.png)
 
 ## Export
 
-Each Action Point can be exported to a **CSV** file.
+Each AP can be exported to a **CSV** file.
 
 The option is accessible via "Export" button above the status panel:
 

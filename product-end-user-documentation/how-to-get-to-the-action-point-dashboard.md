@@ -1,6 +1,6 @@
 # Action Points Dashboard Navigation
 
-### There are 4 ways of how user can get to the Action Point Dashboard.
+### There are 4 ways of how user can get to the APD.
 
 ## **1\)**  via the app icon ![](../.gitbook/assets/4%20%283%29.png) 
 
@@ -20,7 +20,7 @@ User can switch to the APD by selecting “Action Points” module icon:
 
 ## **3\)** via the other modules 
 
-In other modules user should open AP details of the Action Point which is created in the corresponding module . 
+In other modules user should open AP details of the AP which is created in the corresponding module . 
 
 Examples:
 
@@ -31,7 +31,7 @@ See the detailed information about the connections to other modules [here](conne
 
 ## **4\) via the direct link**
 
-User can access the APD via the link in the email to a particular Action point that is assigned to him.
+User can access the APD via the link in the email to a particular AP that is assigned to him.
 
   
 

@@ -1,12 +1,12 @@
 # Objectives
 
-The Action Point Dashboard helps to achieve the following **goals**:
+APD helps to achieve the following **goals**:
 
-* Enable easy access to a central repository for capturing, modifying and tracking action points created in corresponding modules
-* Enable the end-to-end action point processes for UNICEF Staff including:
-  * Creation of action points
-  * Modification of action points
-  * Tracking of action points for an individual and for the country office
+* Enable easy access to a central repository for capturing, modifying and tracking APs created in corresponding modules
+* Enable the end-to-end AP processes for UNICEF Staff including:
+  * Creation of AP
+  * Modification of AP
+  * Tracking of AP for an individual and for the country office
 * Enable individual, country, regional and global analysis for management and strategic decision making
 
 The system supports different [user roles and permissions.](user-roles-and-permissions.md)  

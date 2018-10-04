@@ -1,2 +1,2 @@
-# Action Point
+# Action Points
 
