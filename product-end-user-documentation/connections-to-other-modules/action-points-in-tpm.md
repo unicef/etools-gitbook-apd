@@ -29,7 +29,7 @@ The spreadsheet below describes the user roles and rights for AP in TPM.
 
 ![Add action point button](../../.gitbook/assets/3.png)
 
-**Modifying:** via "Edit" button in the end of the row with particular AP \("Edit" button appears after user hover the mouse over the particular line from the APs list \)::
+**Modifying:** via "Edit" button in the end of the row with particular AP \("Edit" button appears after user hover the mouse over the particular line from the APs list \):
 
 ![Edit button](../../.gitbook/assets/4.png)
 
