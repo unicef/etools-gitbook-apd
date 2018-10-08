@@ -36,6 +36,7 @@
 * [Development Setup](technical-documentation/development-setup.md)
 * [Deployment / DevOps](technical-documentation/deployment-devops.md)
 * [Data Model](technical-documentation/data-model.md)
+* [Fixtures & management commands](technical-documentation/fixtures-and-management-commands.md)
 * [API Documentation](technical-documentation/api-documentation/README.md)
   * [Error Handling](technical-documentation/api-documentation/error-handling.md)
 * [Backend module structure](technical-documentation/backend-module-structure.md)
