@@ -1,6 +1,6 @@
-# Overall user Interface
+# Overall User Interface
 
-The overall user interface of the APD is presented in the screenshot:
+The overall UI of the APD is presented in the screenshot:
 
 ![Overall user interface](../.gitbook/assets/11%20%281%29.png)
 
